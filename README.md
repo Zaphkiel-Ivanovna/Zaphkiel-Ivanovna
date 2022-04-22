@@ -1,4 +1,4 @@
-## Glad to see you here ! <img src="https://github.com/Zaphkiel-Ivanovna/zaphkiel/blob/master/745347224380112977.gif?raw=true" width="30px">
+## Glad to see you here ! <img src="https://github.com/Zaphkiel-Ivanovna/zaphkiel/blob/main/745347224380112977.gif?raw=true" width="30px">
 
 I am Zaphkiel, but most people call me Zaph! I am a student in BTS Digital Systems 2nd year at the institution [Saint Gabriel Saint Michel](https://www.saint-gab.com/).
 
