@@ -1,6 +1,6 @@
 ## Glad to see you here ! <img src="https://github.com/Zaphkiel-Ivanovna/zaphkiel/blob/main/745347224380112977.gif?raw=true" width="30px">
 
-I am Zaphkiel, but most people call me Zaph! I am a student in BTS Digital Systems 2nd year at the institution [Saint Gabriel Saint Michel](https://www.saint-gab.com/).
+I am Zaphkiel, but most people call me Zaph! I am a student in Bachelor 3 Web Developer at [MyDigitalSchool](https://www.mydigitalschool.com/).
 
 [![Gmail Badge](https://img.shields.io/badge/-zaphkiel.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zaphkiel.dev@gmail.com)](mailto:zaphkiel.dev@gmail.com)
 
