@@ -2,7 +2,7 @@
 
 I am Zaphkiel, but most people call me Zaph! I am a student in Bachelor 3 Web Developer at [MyDigitalSchool](https://www.mydigitalschool.com/).
 
-[![Gmail Badge](https://img.shields.io/badge/-zaphkiel.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zaphkiel.dev@gmail.com)](mailto:zaphkiel.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-zaphkiel.ivanov@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zaphkiel.ivanov@gmail.com)](mailto:zaphkiel.ivanov@gmail.com)
 
 ## ⚡ Technologies
 
